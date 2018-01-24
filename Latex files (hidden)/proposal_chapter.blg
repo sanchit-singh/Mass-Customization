@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: proposal_chapter.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+Warning--empty school in jiao1998design
+You've used 31 entries,
+            2773 wiz_defined-function locations,
+            788 strings with 10446 characters,
+and the built_in function-call counts, 14378 in all, are:
+= -- 1319
+> -- 747
+< -- 21
++ -- 254
+- -- 222
+* -- 1181
+:= -- 2174
+add.period$ -- 96
+call.type$ -- 31
+change.case$ -- 164
+chr.to.int$ -- 30
+cite$ -- 63
+duplicate$ -- 671
+empty$ -- 1232
+format.name$ -- 277
+if$ -- 3021
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 32
+newline$ -- 163
+num.names$ -- 124
+pop$ -- 315
+preamble$ -- 1
+purify$ -- 136
+quote$ -- 0
+skip$ -- 499
+stack$ -- 0
+substring$ -- 650
+swap$ -- 64
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 331
+warning$ -- 1
+while$ -- 145
+width$ -- 0
+write$ -- 408
+(There was 1 warning)

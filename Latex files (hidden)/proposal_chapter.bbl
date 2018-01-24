@@ -1,0 +1,210 @@
+\begin{thebibliography}{31}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Allada et~al.(2006)Allada, Choudhury, Pakala, Simpson, Scott, and
+  Valliyappan]{allada2006product}
+Venkat Allada, Abhijit~K Choudhury, Padmavathi~K Pakala, Timothy~W Simpson,
+  Michael~J Scott, and Somasundaram Valliyappan.
+\newblock Product platform problem taxonomy: Classification and identification
+  of benchmark problems.
+\newblock In \emph{Proceedings of DETC, ASME Design Engineering Technical
+  conferences}, 2006.
+
+\bibitem[Baker(1985)]{baker1985safety}
+Kenneth~R Baker.
+\newblock Safety stocks and component commonality.
+\newblock \emph{Journal of Operations Management}, 6\penalty0 (1):\penalty0
+  13--22, 1985.
+
+\bibitem[Ben-Arieh et~al.(2009)Ben-Arieh, Easton, and Choubey]{ben2009solving}
+D~Ben-Arieh, T~Easton, and AM~Choubey.
+\newblock Solving the multiple platforms configuration problem.
+\newblock \emph{International journal of production research}, 47\penalty0
+  (7):\penalty0 1969--1988, 2009.
+
+\bibitem[Benton and Krajewski(1990)]{benton1990vendor}
+WC~Benton and Lee Krajewski.
+\newblock Vendor performance and alternative manufacturing environments.
+\newblock \emph{Decision Sciences}, 21\penalty0 (2):\penalty0 403--415, 1990.
+
+\bibitem[Berry et~al.(1992)Berry, Tallon, and Boe]{berry1992product}
+William~L Berry, William~J Tallon, and Warren~J Boe.
+\newblock Product structure analysis for the master scheduling of
+  assemble-to-order products.
+\newblock \emph{International Journal of Operations \& Production Management},
+  12\penalty0 (11):\penalty0 24--41, 1992.
+
+\bibitem[Collier(1981)]{collier1981measurement}
+David~A Collier.
+\newblock The measurement and operating benefits of component part commonality.
+\newblock \emph{Decision Sciences}, 12\penalty0 (1):\penalty0 85--96, 1981.
+
+\bibitem[Dogramaci(1979)]{dogramaci1979design}
+Ali Dogramaci.
+\newblock Design of common components considering implications of inventory
+  costs and forecasting.
+\newblock \emph{AIIE Transactions}, 11\penalty0 (2):\penalty0 129--135, 1979.
+
+\bibitem[Fujita and Yoshida(2004)]{fujita2004pro}
+Kikuo Fujita and Hiroko Yoshida.
+\newblock Product variety optimization simultaneously designing module
+  combination and module attributes.
+\newblock \emph{Concurrent Engineering}, 12\penalty0 (2):\penalty0 105--118,
+  2004.
+
+\bibitem[Fujita et~al.(1999)Fujita, Sakaguchi, and Akagi]{fujita1999product}
+Kikuo Fujita, Hisato Sakaguchi, and Shinsuke Akagi.
+\newblock Product variety deployment and its optimization under modular
+  architecture and module commonalization.
+\newblock In \emph{ASME Design Engineering Technical Conferences--Design for
+  Manufacturing, Las Vegas, NV, Paper No. DETC99= DFM-8923}. Citeseer, 1999.
+
+\bibitem[Gerchak and Henig(1989)]{gerchak1989component}
+Yigal Gerchak and Mordechai Henig.
+\newblock Component commonality in assemble-to-order systems: Models and
+  properties.
+\newblock \emph{Naval Research Logistics (NRL)}, 36\penalty0 (1):\penalty0
+  61--68, 1989.
+
+\bibitem[Hernandez et~al.(2003)Hernandez, Allen, and
+  Mistree]{hernandez2003platform}
+Gabriel Hernandez, Janet~K Allen, and Farrokh Mistree.
+\newblock Platform design for customizable products as a problem of access in a
+  geometric space.
+\newblock \emph{Engineering Optimization}, 35\penalty0 (3):\penalty0 229--254,
+  2003.
+
+\bibitem[Jiao(1998)]{jiao1998design}
+Jianxin Jiao.
+\newblock \emph{Design for mass customization by developing product family
+  architecture}.
+\newblock PhD thesis, 1998.
+
+\bibitem[Jose and Tollenaere(2005)]{jose2005modular}
+Alberto Jose and Michel Tollenaere.
+\newblock Modular and platform methods for product family design: literature
+  analysis.
+\newblock \emph{Journal of Intelligent manufacturing}, 16\penalty0
+  (3):\penalty0 371--390, 2005.
+
+\bibitem[Kota et~al.(2000)Kota, Sethuraman, and Miller]{kota2000metric}
+Sridhar Kota, Kannan Sethuraman, and Raymond Miller.
+\newblock A metric for evaluating design commonality in product families.
+\newblock \emph{Journal of Mechanical Design}, 122\penalty0 (4):\penalty0
+  403--410, 2000.
+
+\bibitem[Krishnan and Ulrich(2001)]{krishnan2001product}
+Viswanathan Krishnan and Karl~T Ulrich.
+\newblock Product development decisions: A review of the literature.
+\newblock \emph{Management science}, 47\penalty0 (1):\penalty0 1--21, 2001.
+
+\bibitem[Kumar and Allada(2007)]{kumar2007scalable}
+Rupesh Kumar and Venkat Allada.
+\newblock Scalable platforms using ant colony optimization.
+\newblock \emph{Journal of Intelligent Manufacturing}, 18\penalty0
+  (1):\penalty0 127--142, 2007.
+
+\bibitem[Lee and Tang(1997)]{lee1997modelling}
+Hau~L Lee and Christopher~S Tang.
+\newblock Modelling the costs and benefits of delayed product differentiation.
+\newblock \emph{Management science}, 43\penalty0 (1):\penalty0 40--53, 1997.
+
+\bibitem[Martin and Ishii(1997)]{martin1997design}
+Mark~V Martin and Kosuke Ishii.
+\newblock Design for variety: development of complexity indices and design
+  charts.
+\newblock In \emph{Proceedings of}, pages 14--17, 1997.
+
+\bibitem[Meyer and Lehnerd(1997)]{meyer1997power}
+Marc~H Meyer and Alvin~P Lehnerd.
+\newblock \emph{The power of product platforms}.
+\newblock Simon and Schuster, 1997.
+
+\bibitem[Park and Simpson(2008)]{park2008toward}
+Jaeil Park and Timothy~W Simpson.
+\newblock Toward an activity-based costing system for product families and
+  product platforms in the early stages of development.
+\newblock \emph{International Journal of Production Research}, 46\penalty0
+  (1):\penalty0 99--130, 2008.
+
+\bibitem[Qiao et~al.(2002)Qiao, McLean, and Riddick]{qiao2002general}
+Guixiu Qiao, Charles McLean, and Frank Riddick.
+\newblock General applications 2: simulation system modeling for mass
+  customization manufacturing.
+\newblock In \emph{Proceedings of the 34th conference on Winter simulation:
+  exploring new frontiers}, pages 2031--2036. Winter Simulation Conference,
+  2002.
+
+\bibitem[Qu et~al.(2011)Qu, Bin, Huang, and Yang]{qu2011two}
+Ting Qu, S~Bin, George~Q Huang, and HD~Yang.
+\newblock Two-stage product platform development for mass customisation.
+\newblock \emph{International Journal of Production Research}, 49\penalty0
+  (8):\penalty0 2197--2219, 2011.
+
+\bibitem[Robertson and Ulrich(1998)]{robertson1998planning}
+David Robertson and Karl Ulrich.
+\newblock Planning for product platforms.
+\newblock \emph{Sloan management review}, 39\penalty0 (4):\penalty0 19, 1998.
+
+\bibitem[Salvador et~al.(2002)Salvador, Forza, and
+  Rungtusanatham]{salvador2002mass}
+Fabrizio Salvador, Cipriano Forza, and Manus Rungtusanatham.
+\newblock How to mass customize: Product architectures, sourcing
+  configurations.
+\newblock \emph{Business Horizons}, 45\penalty0 (4):\penalty0 61--69, 2002.
+
+\bibitem[Simpson(2004)]{simpson2004product}
+Timothy~W Simpson.
+\newblock Product platform design and customization: Status and promise.
+\newblock \emph{Ai Edam}, 18\penalty0 (1):\penalty0 3--20, 2004.
+
+\bibitem[Simpson et~al.(2001{\natexlab{a}})Simpson, Maier, and
+  Mistree]{simpson2001product}
+Timothy~W Simpson, Jonathan~RA Maier, and Farrokh Mistree.
+\newblock Product platform design: method and application.
+\newblock \emph{Research in engineering Design}, 13\penalty0 (1),
+  2001{\natexlab{a}}.
+
+\bibitem[Simpson et~al.(2001{\natexlab{b}})Simpson, Seepersad, and
+  Mistree]{simpson2001balancing}
+Timothy~W Simpson, Carolyn~Conner Seepersad, and Farrokh Mistree.
+\newblock Balancing commonality and performance within the concurrent design of
+  multiple products in a product family.
+\newblock \emph{Concurrent Engineering}, 9\penalty0 (3):\penalty0 177--190,
+  2001{\natexlab{b}}.
+
+\bibitem[Wheelwright and Clark(1992)]{wheelwright1992revolutionizing}
+Steven~C Wheelwright and Kim~B Clark.
+\newblock \emph{Revolutionizing product development: quantum leaps in speed,
+  efficiency, and quality}.
+\newblock Simon and Schuster, 1992.
+
+\bibitem[Wilhelm(1997)]{wilhelm1997platform}
+Bernd Wilhelm.
+\newblock Platform and modular concepts at volkswagen—their effects on the
+  assembly process.
+\newblock In \emph{Transforming automobile assembly}, pages 146--156. Springer,
+  1997.
+
+\bibitem[Zhang et~al.(2008)Zhang, Huang, and
+  Rungtusanatham]{zhang2008simultaneous}
+Xinyan Zhang, George~Q Huang, and M~Johnny Rungtusanatham.
+\newblock Simultaneous configuration of platform products and manufacturing
+  supply chains.
+\newblock \emph{International Journal of Production Research}, 46\penalty0
+  (21):\penalty0 6137--6162, 2008.
+
+\bibitem[Zhang et~al.(2010)Zhang, Huang, Humphreys, and
+  Botta-Genoulaz]{zhang2010simultaneous}
+Xinyan Zhang, George~Q Huang, Paul~K Humphreys, and Valerie Botta-Genoulaz.
+\newblock Simultaneous configuration of platform products and manufacturing
+  supply chains: comparative investigation into impacts of different supply
+  chain coordination schemes.
+\newblock \emph{Production Planning \& Control}, 21\penalty0 (6):\penalty0
+  609--627, 2010.
+
+\end{thebibliography}

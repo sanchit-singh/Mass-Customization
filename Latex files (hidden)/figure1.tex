@@ -1,0 +1,11 @@
+%compile with lualatex
+\documentclass[tikz,border=5]{standalone}
+\usetikzlibrary{graphs,graphdrawing,arrows.meta}
+\usegdlibrary{trees}
+\begin{document}
+\begin{tikzpicture}[>=Stealth]    
+\graph  [tree layout, grow=down]{
+  5 <- {3 <- {,}, 2 <- {,1<-{,}}, 4<- {,}}
+};
+\end{tikzpicture}
+\end{document} 
