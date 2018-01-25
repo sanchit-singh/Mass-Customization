@@ -1,4 +1,4 @@
-# mass-customization
+# Mass-customization
 
 This project concerns design and testing of a new algorithm in scehduling in a typical assembly-job-shop environment. 
 Deterministic as well as stochastic demand scenarios for products is considered. The products share certain sub-assemblies in their BOM among themselves.
